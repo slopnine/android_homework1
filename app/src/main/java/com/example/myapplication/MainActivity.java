@@ -16,6 +16,7 @@ import android.widget.TextView;
  *
  */
 
+
 public class MainActivity extends AppCompatActivity {
     private int[] idNum = {R.id.txt0, R.id.txt1, R.id.txt2, R.id.txt3,
             R.id.txt4, R.id.txt5, R.id.txt6, R.id.txt7, R.id.txt8, R.id.txt9};  //数字Number输入
